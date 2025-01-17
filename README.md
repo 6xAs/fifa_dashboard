@@ -20,7 +20,7 @@ Bem-vindo ao projeto **FIFA Dashboard**! Este é um pequeno projeto desenvolvido
 
 1. Clone o repositório:
     ```bash
-    git clone https://github.com/seu-usuario/fifa_dashboard.git
+    git clone https://github.com/6xAs/fifa_dashboard.git
     ```
 2. Navegue até o diretório do projeto:
     ```bash
@@ -46,7 +46,7 @@ Este projeto está licenciado sob a licença MIT. Veja o arquivo [LICENSE](LICEN
 ## Contato
 
 Para mais informações, entre em contato:
-- **Email**: seu-email@exemplo.com
-- **GitHub**: [seu-usuario](https://github.com/seu-usuario)
+- **Email**: anderson.6xas@gmail.com
+- **GitHub**: [6xAs](https://github.com/6xAs)
 
 Aproveite o dashboard e divirta-se explorando os dados do FIFA!
